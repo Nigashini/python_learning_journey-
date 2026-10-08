@@ -1,0 +1,7 @@
+n="madam"
+reverse=n[::-1]
+  
+if reverse==n:
+     print("palindrome")
+else:
+     print("not a palindrome")
